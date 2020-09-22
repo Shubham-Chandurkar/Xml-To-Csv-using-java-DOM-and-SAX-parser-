@@ -3,5 +3,8 @@ Here you will get two programs to convert the XML file into CSV file using java.
 
 Note: Please check for paths of the file.
 
+---Output CSV file----
 ![](Images/imgCsvfile.png)
+
+---Input XML file---
 ![](Images/imgXmlFile.png)
